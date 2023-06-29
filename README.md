@@ -11,9 +11,8 @@ Made Using ![node-js-736399_1280](https://github.com/KartikMadotra/SnipKart/asse
 
 
 ![MongoDB_Logo svg](https://github.com/KartikMadotra/SnipKart/assets/118108726/0d9ace2a-ec55-4f9e-a9b6-9893ee4399a0)
+![png-transparent-css3-css3-logo-logo-language-programming-language-css-3d-icon](https://github.com/KartikMadotra/SnipKart/assets/118108726/662aa8c5-7834-41da-91f8-bcb9af9ce726)
 
 
-![1452px-CSS3_logo_and_wordmark svg](https://github.com/KartikMadotra/SnipKart/assets/118108726/5f01745c-5a21-4f99-bb7d-09a01146ed1f)
-
-![HTML5_logo_and_wordmark svg](https://github.com/KartikMadotra/SnipKart/assets/118108726/e5bb9c5d-7558-4332-80ab-94ffee9d2c43)
+![preview](https://github.com/KartikMadotra/SnipKart/assets/118108726/6318a0e8-26f5-4b8f-b1f4-7ae13e5ed213)
 
